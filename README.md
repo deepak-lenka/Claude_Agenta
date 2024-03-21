@@ -1,3 +1,8 @@
+Usage with Google Colab:
+To run the project in a Google Colab environment, simply click the following link:
+[Open in Google Colab](https://colab.research.google.com/drive/1XboNOX4RsXneqzzozhVPy0AqR6mxuLfV?usp=sharing)
+
+
 Project Title: Claude _Agenta
 
 Description:
